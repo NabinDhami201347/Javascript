@@ -14,3 +14,4 @@ console.log(array.length); //For finding length of an array
 console.log(name);
 
 console.log("Hello World");
+console.log("Hello World!!");
