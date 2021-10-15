@@ -12,3 +12,5 @@ console.log(array);
 const [name, age] = array; //object destructuring
 console.log(array.length); //For finding length of an array
 console.log(name);
+
+console.log("Hello World");
